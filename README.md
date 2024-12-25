@@ -1,3 +1,15 @@
+#Start
+
+sudo apt-get install git automake autoconf libcurl4-openssl-dev libjansson-dev libssl-dev libgmp-dev
+
+git clone https://github.com/tpruvot/cpuminer-m...
+
+cd cpuminer-multi
+sudo ./autogen.sh
+sudo ./configure
+sudo ./build.sh
+
+
 CPUMiner-Multi
 ==============
 
