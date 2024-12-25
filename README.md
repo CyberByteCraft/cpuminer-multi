@@ -5,8 +5,11 @@ sudo apt-get install git automake autoconf libcurl4-openssl-dev libjansson-dev l
 git clone https://github.com/tpruvot/cpuminer-m...
 
 cd cpuminer-multi
+
 sudo ./autogen.sh
+
 sudo ./configure
+
 sudo ./build.sh
 
 
