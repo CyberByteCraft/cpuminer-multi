@@ -15,6 +15,8 @@ sudo ./configure
 sudo ./build.sh
 ```
 
+./cpuminer -a -o stratum+tcp://doge.zsolo.bid:8057 -u [walletadress] -p x
+
 
 CPUMiner-Multi
 ==============
